@@ -1,4 +1,4 @@
-![265629380-f8a33cf4-faec-4a3a-9a45-ba14ae1b5bda](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/3280d008-5bfe-457d-981b-ba9ed9536e38)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
