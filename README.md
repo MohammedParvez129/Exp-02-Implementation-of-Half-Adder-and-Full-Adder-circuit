@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+![265629380-f8a33cf4-faec-4a3a-9a45-ba14ae1b5bda](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/3280d008-5bfe-457d-981b-ba9ed9536e38)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -20,10 +20,9 @@ Full adder is a digital circuit used to calculate the sum of three binary bits. 
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
 
- ![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
+![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
 
 #### Figure -01 HALF ADDER 
-
 
 ![image](https://user-images.githubusercontent.com/36288975/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png)
 
@@ -31,24 +30,57 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 ### Procedure
 
-Connect the supply (+5V) to the circuit
-Switch ON the main switch
-If the output is 1, then the led glows.
-### 
-Program:
-/*
+1. Connect the supply (+5V) to the circuit
+2. Switch ON the main switch
+3. If the output is 1, then the led glows.
+
+### Program:
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
+
+Developed by : MOHAMMED PARVEZ S
+
+Register Number : 23010483
+
+Code : 
+
+Half Adder :
+
+![Exp3 ha code](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/718ab11f-a92b-4147-b5a4-632d83c24a65)
+
+Full Adder :
+
+![Exp3 fa code](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/37a793e2-a3ec-4f34-8424-99def72d98db)
+
+Truth Table :
+
+Half Adder :
+
+![Exp3 truthtable (ha)](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/9bb6de56-7b3c-47e4-a3e7-f10dd6e7f255)
+
+Full Adder :
+
+![Exp3 truthtable (fa)](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/f59ff78f-9a3d-4572-be21-94f4059b216f)
+
 RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+Half Adder :
 
+![Exp3 ha RTL diagram](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/2964f1fd-fc3a-4e02-9c2d-0c3988bf471e)
 
-### TRUTH TABLE 
+Full Adder :
+
+![Exp3 fa RTL diagram](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/d8fe47a7-9391-4ae8-b7d4-f89a32cc20c3)
+
+### Output :
+
+Half Adder :
+
+![265629888-a204ccf6-66f1-43d4-ae24-b980509a1acc](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/662f293b-5f84-46aa-a1d8-51f76b5bd072)
+
+Full Adder :
+
+![265629963-b5c9748a-da88-428a-9fda-90b04a98d9d0](https://github.com/MohammedParvez129/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/143175737/d2691f0c-2949-4004-bdd2-738891955f51)
 
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
